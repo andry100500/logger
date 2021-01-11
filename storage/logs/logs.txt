@@ -1,0 +1,2 @@
+12-01-2021 00:15:08 -> info -> It is message -> Z:\domains\logger\index.php
+12-01-2021 00:15:15 -> info -> It is message -> Z:\domains\logger\index.php
